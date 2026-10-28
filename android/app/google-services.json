@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589940928312",
+    "project_id": "helmet-747e8",
+    "storage_bucket": "helmet-747e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589940928312:android:7caf8de2b65ae39e7ddbcd",
+        "android_client_info": {
+          "package_name": "com.example.pure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENVaXEbyYdkp1BaN3UjUpbk5gmKRyBFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
